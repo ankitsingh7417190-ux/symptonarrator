@@ -1,4 +1,3 @@
-### Project 2: SymptoNarrator: AI-Powered Health Symptom Narrator
 
 # 🩺 SymptoNarrator: AI-Powered Health Symptom Narrator
 
